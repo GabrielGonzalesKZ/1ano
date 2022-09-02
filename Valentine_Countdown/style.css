@@ -1,5 +1,4 @@
 :root {
-    --grayish-blue: hsl(237, 18%, 59%);
     --soft-red: hsl(345, 95%, 68%);
     /* ### Neutral */
     --dark-desaturated-blue: hsl(236, 21%, 26%);
@@ -29,9 +28,8 @@ body>* {
 
 .container {
     width: 100%;
-    height: 100%;
     background-color: var(--main-bg);
-    background-image: url(https://images.pexels.com/photos/2055225/pexels-photo-2055225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url(https://i.ibb.co/zXPzBGj/Ana-Gabriel.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: soft-light;
